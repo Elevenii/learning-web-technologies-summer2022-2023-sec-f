@@ -1,0 +1,38 @@
+[
+    {
+        "question": "How can I change my username and password?",
+        "answer": "To change your username and password, log in to your account and navigate to the 'Settings' section. There, you'll find options to update your username and password."
+    },
+    {
+        "question": "Can I change my profile picture?",
+        "answer": "Yes, you can change your profile picture. Simply go to the 'Settings' section, click on the 'Change Profile Picture' button, and follow the instructions to upload a new image."
+    },
+    {
+        "question": "I forgot my password. What should I do?",
+        "answer": "If you forgot your password, click on the 'Forgot Password' link on the login page. You'll be prompted to enter your email address, and a password reset link will be sent to your registered email. Follow the link to reset your password."
+    },
+    {
+        "question": "How can I update my contact information?",
+        "answer": "To update your contact information, go to the 'Settings' section and click on the 'Edit Contact Information' button. Enter the new information and save the changes."
+    },
+    {
+        "question": "Can I change my registered email address?",
+        "answer": "Unfortunately, you cannot change your registered email address directly from the system. Please contact the school administration or support team for assistance in updating your email address."
+    },
+    {
+        "question": "How do I enroll in courses or classes?",
+        "answer": "To enroll in courses or classes, log in to your account and go to the 'Courses' section. Browse the available courses, select the ones you want to enroll in, and click the 'Enroll' button for each course."
+    },
+    {
+        "question": "I don't understand my studies. How can I contact my teachers?",
+        "answer": "You can contact your teachers by sending them a message through the 'Messages' section in your account. Alternatively, you can check your course page for the teacher's contact information or office hours."
+    },
+    {
+        "question": "Can I view my grades and academic progress?",
+        "answer": "Yes, you can view your grades and academic progress in the 'Grades' section. It will display your performance in each course, along with cumulative GPA and other relevant information."
+    },
+    {
+        "question": "How can I access my timetable or class schedule?",
+        "answer": "Your class schedule or timetable can be found in the 'Schedule' section. It will display all your classes, their timings, and locations."
+    }
+]
